@@ -3,7 +3,7 @@ import Layout from '../components/layout'
 const IndexPage = () => {
   return (
     <Layout pageTitle="Home Page">
-      <p>I'm making this by following the Gatsby Tutorial.</p>
+      <img src="https://cdn.dribbble.com/users/1044993/screenshots/6634466/triceratops_dribbble.png?compress=1&resize=400x300"></img>
     </Layout>
   )
 }
